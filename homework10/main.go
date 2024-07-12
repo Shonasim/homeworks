@@ -3,8 +3,8 @@ package main
 import "fmt"
 
 func main() {
-	a := 6.0 // Примерное значение первого числа
-	b := 3.0 // Примерное значение второго числа
+	a := 6.0
+	b := 3.0
 	sum := a*a + b*b
 	diff := a*a - b*b
 	prod := a * a * b * b
